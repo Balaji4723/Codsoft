@@ -6,7 +6,7 @@ It generates strong, customizable passwords using both a CLI version and a Tkint
 
 ---
 
-## 🔐 Features
+## Features
 - Choose password length  
 - Include uppercase, digits, and symbols  
 - Generate instantly  
@@ -15,8 +15,9 @@ It generates strong, customizable passwords using both a CLI version and a Tkint
 
 ---
 
-## ▶ Run Instructions
+## Run Instructions
 
 ### CLI Version:
 ```bash
 python password_cli.py
+
