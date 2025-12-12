@@ -1,0 +1,2 @@
+# No external packages required
+# Tkinter included with standard Python (install python3-tk on Linux if needed)
